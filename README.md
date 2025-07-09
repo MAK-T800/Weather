@@ -5,12 +5,11 @@ This is a simple weather web application that fetches and displays weather data 
 ## Project Structure
 
 ```
-weather-web-app
-├── src
-│   ├── index.html       # Main HTML document for the web app
-│   ├── style.css        # Styles for the web app
-│   └── app.js           # JavaScript code for fetching and displaying weather data
-└── README.md            # Documentation for the project
+
+│── index.html       # Main HTML document for the web app
+│── style.css        # Styles for the web app
+|── app.js           # JavaScript code for fetching and displaying weather data
+└── README.md        # Documentation for the project
 ```
 
 ## Getting Started
